@@ -1,0 +1,13 @@
+Wymagania funkcjonalne:
+-mo¿liwoœæ rêcznego wprowadzania danych,
+-mo¿liwoœæ wprowadzenia danych z bazy, 
+-mo¿liwoœæ dodawania przez u¿ytkownika w³asnych obieków do bazy,
+
+
+
+Wymagania niefunkcjonalne: 
+-niezawodnoœæ dzia³ania, 
+-dobra widocznoœæ tekstu przy jasnym oœwietleniu,
+-przenoœnoœæ, 
+-w przypadku korzystania z bazy danych pogodowych konieczne po³¹czenie z internetem,
+-czas obliczenia pojedynczego wyniku poni¿ej 5 sekund,
