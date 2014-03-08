@@ -1,0 +1,8 @@
+Zespó³ nr 5
+
+Marek Rybak
+Monika Majkut
+Maciej Zborowski
+
+Temat: Kalkulator balistyczny
+Kalkulator obliczaj¹cy tor lotu pocisku.
